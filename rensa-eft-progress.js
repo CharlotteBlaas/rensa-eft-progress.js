@@ -1,3 +1,4 @@
+console.log("[eftp] LOADED OK");
 /* =========================
    rensa-eft-progress.js (SPA-proof)
    - zet dit bestand in GitHub
